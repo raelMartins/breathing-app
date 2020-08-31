@@ -1,2 +1,4 @@
 # breathing-app
 one of my simpler projects...for relaxation
+
+Used some asynchronous scripting
